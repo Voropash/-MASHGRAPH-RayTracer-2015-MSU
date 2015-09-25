@@ -1,4 +1,4 @@
-	trim_team "Куклуск Lan"
+RayTracer by trim_team "Куклуск Lan"
 
 311:
 	Бондаренко Антон Николаевич,
