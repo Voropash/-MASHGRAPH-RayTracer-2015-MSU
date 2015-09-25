@@ -1,0 +1,2 @@
+512 512 0 1 0
+res, shadows, MP, AA4x

@@ -1,0 +1,2 @@
+4000 3200 1 1 1
+res, shadows, MP, AA4x

@@ -1,0 +1,2 @@
+800 600 1 1 0
+res, shadows, MP, AA4x
